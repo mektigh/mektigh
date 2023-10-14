@@ -19,6 +19,8 @@
 </br>
 🥷 I am as told really good at what I do and I always fancy a challenge. Hit me up with whatever question you have and I'll try help.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R8Q3M16)
+
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/mektigh/ama)
 </br>
 </br>
