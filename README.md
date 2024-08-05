@@ -1,16 +1,6 @@
 <h2 align="left">Hi 👋! My name is Fredric!</h2>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=9046FF&width=435&lines=But+known+by+friends+as+Mektigh.)](https://github.com/mektigh)
-
-<div>
-  <a href="https://api.daily.dev/get?r=mektigh" target="_blank">
-    <img
-      width="400"
-      align="right"
-      src="https://github.com/mektigh/mektigh/blob/main/devcard.svg"
-    />
-  </a>
-</div>
 👾 I’ve been doing stuff with IT for over 20 years, with passion and curiosity i've become a good consultant and a well knowledged IT person. At the moment I work as a full time IT-Consultant and my passion (hobby 💛) lays with my homelab where I can spin up Docker Containers and learn more about CyberSecurity 🔒.
 </br>
 </br>
@@ -25,7 +15,7 @@
 </br>
 </br>
 </br>
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+<p align="left"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
 
 
 # My Specs
@@ -46,8 +36,8 @@ spec:
 
   favorites:
     number: 7
-    animal: 🐈‍⬛
-    emoji: 😉
+    animal: 🐈
+    emoji: 🙌
     food: 🍔
     drink: 🍺
 ```
